@@ -1,0 +1,52 @@
+! fix the entire layout, remove sidebar, ads, spam, etc
+fandom.com##.global-navigation
+fandom.com##.anon.global-navigation
+fandom.com##.a-list-feed
+fandom.com##.search-box-bottom-wrapper
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
+fandom.com##.wds-is-follow-us.wds-global-footer__section
+fandom.com##.entry-content.article-content > div
+fandom.com##.article-share
+fandom.com##.in-area-right.hot-block
+fandom.com##.right-rail-buttons.feed-layout__right-rail
+fandom.com##.feed-layout
+fandom.com##.article-layout__rail
+fandom.com###WikiaBar
+fandom.com##.WikiaRail.right-rail-wrapper
+fandom.com##.page__right-rail
+fandom.com##.fandom-community-header__top-container > .wds-button-group.wiki-tools > a.wds-is-secondary.wds-button:nth-of-type(2)
+fandom.com##.is-visible.fandom-sticky-header > .wds-button-group.wiki-tools > a.wds-is-secondary.wds-button:nth-of-type(2)
+fandom.com###mw-data-after-content
+fandom.com##.mcf-wrapper
+fandom.com##.global-footer__content > div:nth-of-type(4)
+fandom.com##.global-footer__section-social-links.global-footer__section
+fandom.com##.global-footer__section-advertise.global-footer__section
+fandom.com##.global-footer__section-fandom-overview.global-footer__section
+fandom.com##.global-footer__bottom > div:nth-of-type(1)
+fandom.com##a.page-header__action-button.wds-is-text.wds-button:nth-of-type(1)
+fandom.com##div#mpmodule:nth-of-type(4)
+fandom.com##.nkch-rdp
+fandom.com##.wiki-top-articles
+fandom.com##.wiki-recent-changes
+fandom.com##.categories-module
+fandom.com##.home-page-desktop__left
+fandom.com##.desktop-entry-point__body
+fandom.com##a.is-hidden-on-smaller-breakpoints.wds-is-secondary.wds-button:nth-of-type(3)
+fandom.com##.wds-is-advertise.wds-global-footer__section
+fandom.com##.wds-is-fandom-overview.wds-global-footer__section
+! search
+fandom.com##.top-results
+fandom.com##.unified-search__layout__right-rail
+fandom.com##li.unified-search__profiles__profile:nth-of-type(4) > div > [href^="https://youtube.fandom.com/wiki/Special:Search"]
+fandom.com##li.unified-search__profiles__profile:nth-of-type(2) > div > [href^="https://youtube.fandom.com/wiki/Special:Search"]
+fandom.com##li.unified-search__profiles__profile:nth-of-type(6) > div > [href^="https://youtube.fandom.com/wiki/Special:Search"]
+! community specific fixes
+youtube.fandom.com##.DiscordWidget
+
+! 2023-10-23 https://wowpedia.fandom.com
+wowpedia.fandom.com##.bg-darkblue.mpcontentbox > .center > div
+wowpedia.fandom.com##.bg-darkblue.mpcontentbox
+
+! 2023-10-23 https://naruto.fandom.com
+naruto.fandom.com##table.mainpage-box:nth-of-type(6)
+naruto.fandom.com##.animangafooter
