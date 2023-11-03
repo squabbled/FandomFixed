@@ -50,3 +50,8 @@ wowpedia.fandom.com##.bg-darkblue.mpcontentbox
 ! 2023-10-23 https://naruto.fandom.com
 naruto.fandom.com##table.mainpage-box:nth-of-type(6)
 naruto.fandom.com##.animangafooter
+www.fandom.com##.div-block > .w-embed.html-embed
+www.fandom.com##.metal-toxicology-report_sound-bytes
+www.fandom.com##.w-inline-block.link-block
+www.fandom.com##.w-clearfix.div-block-7
+fandom.com##.post-details-desktop__right
