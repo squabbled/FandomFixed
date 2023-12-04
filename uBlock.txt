@@ -55,3 +55,5 @@ www.fandom.com##.metal-toxicology-report_sound-bytes
 www.fandom.com##.w-inline-block.link-block
 www.fandom.com##.w-clearfix.div-block-7
 fandom.com##.post-details-desktop__right
+! notification blocker
+fandom.com##.notifications-placeholder
