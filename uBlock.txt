@@ -57,3 +57,11 @@ www.fandom.com##.w-clearfix.div-block-7
 fandom.com##.post-details-desktop__right
 ! notification blocker
 fandom.com##.notifications-placeholder
+fandom.com##.post-footer__upvote.upvote
+fandom.com##.post-footer__share-button.post-footer__action > .wds-icon-small.wds-icon > use
+fandom.com###highlight__main-container
+fandom.com##.reply__upvote.upvote
+fandom.com##.global-footer
+
+! 2024-01-04 https://fallout.fandom.com
+fallout.fandom.com##.rcs-container > table.va-portal-section:nth-of-type(2) > tbody > tr:nth-of-type(2) > .va-portal-body
