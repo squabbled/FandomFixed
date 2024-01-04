@@ -7,3 +7,7 @@ This removes a ton of features that the general public who just wants to read ar
 
 # Disabled "features"
 Comments, social media share links, discussion topics, posting, Discord invitation popups (on certain wikis), suggested Wikis, partnered wikis, the righthand side popular pages and images, the bottom random articles, the left hand sidebar, the bottom TikTok popups, videos, and more.
+
+# How to install
+To install, download the uBlock Origin extension, click on the uBlock Origin badge, and go to settings. Go to filter lists, scroll down, import, and paste in the URL https://www.squabbled.net/paste/fandomfixeduBlockOrigin.txt
+Alternatively, you can manually copy the uBlock.txt file into your "My Filters" tab in settings.
