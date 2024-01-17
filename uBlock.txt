@@ -65,3 +65,4 @@ fandom.com##.global-footer
 
 ! 2024-01-04 https://fallout.fandom.com
 fallout.fandom.com##.rcs-container > table.va-portal-section:nth-of-type(2) > tbody > tr:nth-of-type(2) > .va-portal-body
+fandom.com##.LightboxCarousel
