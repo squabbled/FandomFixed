@@ -66,3 +66,27 @@ fandom.com##.global-footer
 ! 2024-01-04 https://fallout.fandom.com
 fallout.fandom.com##.rcs-container > table.va-portal-section:nth-of-type(2) > tbody > tr:nth-of-type(2) > .va-portal-body
 fandom.com##.LightboxCarousel
+
+! Blocks more annoyances on the latest UI that Fandom has rolled out.
+! Yes, the page isn't full screen even when clicking the maximize button. Click it and then refresh the page, the page should fit the whole screen again.
+fandom.com##.CurrentWiki-module_wrapperLeftPanelDark__tW1Y8.current-wiki-scrollable-content.CurrentWiki-module_wrapperLeftPanel__jXDx7
+fandom.com##.Tab-module_leftTab__QS-9Z.navigation-tab.Tab-module_tab__50n3d
+fandom.com##.global-explore-navigation__nav
+fandom.com##.global-explore-navigation__top
+fandom.com##path.cls-1
+fandom.com##path.cls-6
+fandom.com##.global-top-navigation__fandom-logo > svg
+fandom.com##.global-explore-navigation
+fandom.com##.community-navigation__fandom-heart__link
+fandom.com##.community-navigation__fandom-heart
+fandom.com##.SearchInput-module_suggestionsList__xJ4Di
+fandom.com##header.SearchInput-module_suggestionsBoxHeading__mqgBe:nth-of-type(2)
+fandom.com##.global-top-navigation__start-new-wiki__label.global-top-navigation__button-label
+fandom.com##.global-top-navigation__start-new-wiki__anchor.global-top-navigation__link
+fandom.com##.post-attribution__avatar > .wds-avatar
+fandom.com##.wds-avatar
+! Blocks "Migrate to Fandom" notices on Gamepedia wikis
+help.fandom.com###fandom_notice
+help.gamepedia.com###fandom_notice
+gamepedia.com###fandom_notice
+fandom.com###fandom_notice
