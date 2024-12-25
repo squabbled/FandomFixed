@@ -34,4 +34,5 @@ Q: I can't use uBO or other ad-blocking software, can I still enjoy a debloated 
 A: Yes. BreezeWiki is the same premise as this list, albeit without using the actual Fandom website. A popular method to access BreezeWiki is to add anti to fandom.com so that the URL becomes antifandom.com. For example, https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data becomes https://prepaid-data-sim-card.antifandom.com/wiki/Prepaid_SIM_with_data. Alternatively, the Indie Wiki Buddy (getindie.wiki) does this automatically, and if the .fandom.com wiki is discontinued, automatically takes you to the newest wiki.
 
 Q: Does this list work with Pi-Hole?
+
 A: No. You need ad-blocking software such as uBlock Origin to use this list.
