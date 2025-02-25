@@ -34,6 +34,12 @@ fandom.com##.desktop-entry-point__body
 fandom.com##a.is-hidden-on-smaller-breakpoints.wds-is-secondary.wds-button:nth-of-type(3)
 fandom.com##.wds-is-advertise.wds-global-footer__section
 fandom.com##.wds-is-fandom-overview.wds-global-footer__section
+fandom.com##.global-top-navigation__action-wrapper
+fandom.com##:root { --desktop-global-navigation-width: unset !important; }
+fandom.com###community-navigation > .sign-in.global-action__item
+fandom.com##.community-navigation { transform: translateY(100%) !important; }
+fandom.com##.page-side-tools__wrapper
+
 ! search
 fandom.com##.top-results
 fandom.com##.unified-search__layout__right-rail
