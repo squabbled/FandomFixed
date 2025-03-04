@@ -21,10 +21,6 @@ Q: Why are pages now centered to the right?
 
 A: Fandom "hard injects" a banner into the side of the page. The banner is blocked, but the UI assumes it's still there and orientates the page to the right. See next question to fix.
 
-Q: On the new Fandom layout, while maximized, the page isn't full screen, and appears to the right!
-
-A: Maximise the page as before, and then refresh. The wiki will now permanently go full screen until you clear your cookies. This doesn't apply site-wide, only on the particular wiki you've full screened.
-
 Q: I'm just getting a blank white page!
 
 A: The Fandom homepage doesn't work with this script enabled, mainly because of how extremely bloated it is. If you want to search for a particular wiki, enter site:fandom.com into your search engine of choice, and the search bar on individual wikis should work.
