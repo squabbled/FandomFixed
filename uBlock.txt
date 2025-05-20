@@ -41,6 +41,7 @@ fandom.com##.global-top-navigation__action-wrapper
 fandom.com##:root { --desktop-global-navigation-width: unset !important; }
 fandom.com###community-navigation > .sign-in.global-action__item
 fandom.com##.community-navigation { transform: translateY(100%) !important; }
+fandom.com###global-top-navigation
 
 ! search
 fandom.com##.top-results
