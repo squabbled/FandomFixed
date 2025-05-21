@@ -1,3 +1,6 @@
+! Title: FandomFixed
+! Homepage: https://github.com/squabbled/FandomFixed
+
 ! fix the entire layout, remove sidebar, ads, spam, etc
 fandom.com##.global-navigation
 fandom.com##.anon.global-navigation
@@ -38,6 +41,7 @@ fandom.com##.global-top-navigation__action-wrapper
 fandom.com##:root { --desktop-global-navigation-width: unset !important; }
 fandom.com###community-navigation > .sign-in.global-action__item
 fandom.com##.community-navigation { transform: translateY(100%) !important; }
+fandom.com###global-top-navigation
 
 ! search
 fandom.com##.top-results
@@ -95,3 +99,5 @@ help.fandom.com###fandom_notice
 help.gamepedia.com###fandom_notice
 gamepedia.com###fandom_notice
 fandom.com###fandom_notice
+! Fix background
+fandom.com##.fandom-community-header__background:style(width: 100% !important;)
